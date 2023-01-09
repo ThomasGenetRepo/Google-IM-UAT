@@ -4,11 +4,6 @@ from dotenv import load_dotenv, dotenv_values
 from office365.runtime.auth.user_credential import UserCredential
 from office365.sharepoint.client_context import ClientContext
 
-# SPUrl = 'https://acostaonline.sharepoint.com/'
-# username = 'thomas.genet@mosaic.com'
-# password = '$$Strawberry22'
-# site = 'https://acostaonline.sharepoint.com/sites/Mosaic/GoogleNA'
-
 # ctx = ClientContext(site).with_credentials(UserCredential("thomas.genet@mosaic.com", "$$Strawberry22"))
 # web = ctx.web
 # ctx.load(web)
