@@ -1,2 +1,4 @@
 sp_venv/*
-sp_connect.py
+secrets.yaml
+.env
+__pycache__*
